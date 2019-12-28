@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272943644628",
+    "firebase_url": "https://wafirebaseproject-50f38.firebaseio.com",
+    "project_id": "wafirebaseproject-50f38",
+    "storage_bucket": "wafirebaseproject-50f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272943644628:android:59a510c0e09fab66db2041",
+        "android_client_info": {
+          "package_name": "com.rifkifi.wa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272943644628-1rpal2avck7phdnrdtthckksdntjirn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rifkifi.wa",
+            "certificate_hash": "5a8144248a984c25835c5da42d5a45d841a4c671"
+          }
+        },
+        {
+          "client_id": "272943644628-jfvk38gcnbvr12aqf9u7t25g8ao43h7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQAVU6aBbytm5jS6XcG-LRl8KvW0kRJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272943644628-jfvk38gcnbvr12aqf9u7t25g8ao43h7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
